@@ -1,4 +1,4 @@
-#Impact Investing Funds
+#Impact Investing Funds: An Analysis
 
 A comparative analysis of the rate of return, asset class, impact theme, size, and geotarget of 388 impact investing funds. done using Tableau, R and Excel
 
