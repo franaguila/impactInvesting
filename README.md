@@ -5,5 +5,3 @@ A comparative analysis of the rate of return, asset class, impact theme, size, a
 ![alt tag](https://cloud.githubusercontent.com/assets/16272798/15435648/675d5040-1e72-11e6-89d2-9f36b62da2ac.png)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/16272798/15435650/675f3bbc-1e72-11e6-90fa-fc660acad156.png)
-
-![alt tag](https://public.tableau.com/profile/publish/Comparativeanalysis/Dashboard2#!/publish-confirm)
