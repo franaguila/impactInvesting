@@ -1,1 +1,1 @@
-An Analysis of 388 Impact Investing Funds
+An analysis of 388 impact investing funds
